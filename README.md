@@ -1,4 +1,4 @@
-# Taste - user review recommendation service
+# Taste - user review & recommendation service
 CSPC 34 Software Engineering Project Repo
 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
@@ -14,7 +14,9 @@ npm install
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:
 
 DATABASEURL='<url>'
-API_KEY=''<key>
+  
+API_KEY='<key>'
+  
 API_SECRET='<secret>'
 
 Run mongod in another terminal and node app.js in the terminal with the project.
