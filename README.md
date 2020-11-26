@@ -7,7 +7,7 @@ Install mongodb
 
 Create a cloudinary account to get an API key and secret code
 
-git clone 
+git clone https://github.com/BrijeshDurai/Taste.git
 
 cd taste
 
