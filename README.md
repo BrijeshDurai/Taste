@@ -8,7 +8,9 @@ Install mongodb
 Create a cloudinary account to get an API key and secret code
 
 git clone 
+
 cd taste
+
 npm install
 
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:
