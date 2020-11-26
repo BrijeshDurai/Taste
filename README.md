@@ -10,11 +10,11 @@ Run it locally :
 
 2. Create a cloudinary account to get an API key and secret code
 
-  git clone https://github.com/BrijeshDurai/Taste.git
+    git clone https://github.com/BrijeshDurai/Taste.git
 
-  cd taste
+    cd taste
 
-  npm install
+    npm install
 
 
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:
