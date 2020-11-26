@@ -3,9 +3,12 @@ CSPC 34 Software Engineering Project Repo
 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
-Install mongodb
+Run it locally :
 
-Create a cloudinary account to get an API key and secret code
+
+1. Install mongodb
+
+2. Create a cloudinary account to get an API key and secret code
 
 git clone https://github.com/BrijeshDurai/Taste.git
 
